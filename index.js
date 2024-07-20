@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["LS Services","LS Helper","Created by 𝒮𝓎𝖙𝒽𝖊","LS"];
+const statusMessages = ["LS Services","Created by 𝒮𝓎𝖙𝒽𝖊"];
 
 
 let currentIndex = 0;
